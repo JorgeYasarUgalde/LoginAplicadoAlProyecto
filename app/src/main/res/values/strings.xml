@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">login y password</string>
+    <string name="text_login">Login</string>
+    <string name="text_login_tag">Bienvenido de vuelta, ingrese sus datos para continuar</string>
+    <string name="e_mail">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+
+
+    <string name="text_landing">Proveedoresr</string>
+    <string name="text_landing_tag">Administrador de proveedores y productos</string>
+    <string name="text_registrar_landing">Registrar</string>
+    <string name="text_login_landing">Login</string>
+
+
+    <string name="text_registro">Registrarse</string>
+    <string name="text_registro_tag">Por favor registrese para continuar</string>
+</resources>

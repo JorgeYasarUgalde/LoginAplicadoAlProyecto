@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525767116470",
+    "project_id": "proveedores-de21c",
+    "storage_bucket": "proveedores-de21c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525767116470:android:285529ac2516dbd84d4817",
+        "android_client_info": {
+          "package_name": "company.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525767116470-kjsusva909kgemu5o6k66m0lj8tls0b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1oCzmMXaaFnRrC4JZFK0zwVPqRCZjgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525767116470-kjsusva909kgemu5o6k66m0lj8tls0b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
